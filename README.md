@@ -1,10 +1,4 @@
 # Project Euler Answers
 
-This repo contains executable implementations in Javascript (ES6) to solve Project Euler problems.
+This repo contains answers to some Project Euler's archived problems.
 
-## Running
-
-```
-npm i
-npm run test
-```
